@@ -6,7 +6,7 @@ body{
 }
 
 #header-nav{
-	background-color: #f6b319;
+	background-color: #e4e4e4;
 	border-radius: 0;
 	border: 2px solid #662900;
 }
@@ -48,6 +48,11 @@ button.navbar-toggle {
 	color:#444422;
 	font-size: 30px;
 	}
+	
+#main-content{
+	margin-left: 10px;
+	margin-right: 10px;
+}
 
 /** tiles Styling **/
 #sushi, #chicken, #beef{
@@ -58,7 +63,7 @@ button.navbar-toggle {
 	overflow: hidden;
 	border: 2px solid #990000;
 	box-shadow: 2px 2px 4px #330000;
-	background-color: #f6b319;
+	background-color: #e4e4e4;
 }
 
 #sushi div, #chicken div, #beef div {

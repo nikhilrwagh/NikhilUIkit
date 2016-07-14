@@ -39,6 +39,12 @@ button.navbar-toggle {
   margin-top: -30px;
   }
 
+/**Design DropDown**/
+
+#nav-list li a:hover{
+	background-color:#ffd6cc;
+	
+}
 
 /** Jumbotron Styling **/
 #jumbo{

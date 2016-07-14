@@ -1,14 +1,17 @@
 body{
 	font-family: oxygen;
 	font-size: 16px !important;
-	background-color: #fff0e6 !important;
+	background-color: #b3b3b3 !important;
 	color:#cc5200;
 }
 
+/*Design Header*/
 #header-nav{
 	background-color: #e4e4e4;
 	border-radius: 0;
 	border: 2px solid #662900;
+	margin: 20px 15px 0;
+	box-shadow: 2px 2px 4px #00b3b3;
 }
 
 .navbar-brand a h1{
@@ -39,7 +42,7 @@ button.navbar-toggle {
 
 /** Jumbotron Styling **/
 #jumbo{
-	background-color: #fff0e6; 
+	background-color: #b3b3b3; 
 }
 
 #menu{
@@ -47,11 +50,12 @@ button.navbar-toggle {
 	font-weight: bold;
 	color:#444422;
 	font-size: 30px;
+	text-transform: uppercase;
+	text-shadow: 2px 2px 2px #331a00;
 	}
 	
 #main-content{
-	margin-left: 10px;
-	margin-right: 10px;
+	margin: 0 10px;
 }
 
 /** tiles Styling **/
@@ -61,8 +65,8 @@ button.navbar-toggle {
 	position: relative;
 	margin-bottom: 15px;
 	overflow: hidden;
-	border: 2px solid #990000;
-	box-shadow: 2px 2px 4px #330000;
+	border: 2px solid #008080;
+	box-shadow: 2px 2px 5px #00b3b3;
 	background-color: #e4e4e4;
 }
 
